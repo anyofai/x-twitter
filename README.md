@@ -91,6 +91,8 @@ OK，当完成以上操作后，你就已经成功订阅了X Premium或者X Prem
 
 * Grok官网：grok.com
 
+![订阅SuperGrok会员流程](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/grok-3-1.png)
+
 在电脑端打开Grok官网，使用你的X账号进行登录，然后依次点击"设置"和"Go Super"按钮，填写我们在前文获取到的野卡虚拟信用卡信息，最后按照系统提示完成SuperGrok会员订阅。
 
 ## 订阅Twitter X Premium+会员或SuperGrok会员的注意事项
