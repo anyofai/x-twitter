@@ -63,15 +63,23 @@ OK，截止到目前为止，你已经成功地获取到了一张野卡虚拟信
 
 ### 第一步：登录Twitter X账号。
 
+![订阅Twitter X Premium+会员第一步：登录Twitter X账号](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/x-1.jpg)
+
 ### 第二步：点击左侧菜单栏中的"Premium"选项。
+
+![订阅Twitter X Premium+会员第二步：点击左侧菜单栏中的"Premium"选项](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/x-2.png)
 
 ### 第三步：选择你要订阅的套餐。
 
 注意：我们图中显示的是港币，折算成美金的话，X Premium会员为8美金/月，X Premium+会员为40美金/月。
 
+![订阅Twitter X Premium+会员第三步：选择你要订阅的套餐](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/x-3.png)
+
 ### 第四步：填写野卡虚拟信用卡信息。
 
 注意：将我们在前文获取到的野卡虚拟信用卡信息，包括卡号、有效期、安全码(CVV)以及账单地址，填写到对应的框中即可。
+
+![订阅Twitter X Premium+会员第四步：填写野卡虚拟信用卡信息](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/x-4.png)
 
 OK，当完成以上操作后，你就已经成功订阅了X Premium或者X Premium+会员。接下来，回到X首页，点击左侧导航栏中的"Grok"选项，就可以正式开始使用Grok 3了。
 
