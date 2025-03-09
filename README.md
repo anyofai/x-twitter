@@ -77,7 +77,7 @@ OK，当完成以上操作后，你就已经成功订阅了X Premium或者X Prem
 
 如果你是个纯粹的AI爱好者，对X平台的社交功能兴趣不大，但又想充分体验Grok 3的全部能力，那么SuperGrok会员就是专为你设计的。相比X Premium+，SuperGrok不仅价格更低（30美元/月 vs 40美元/月），还提供了语音模式与无限图像生成功能，让你的AI体验更加丰富多样。
 
-* Grok官网：https://grok.com/
+* Grok官网：grok.com
 
 在电脑端打开Grok官网，使用你的X账号进行登录，然后依次点击"设置"和"Go Super"按钮，填写我们在前文获取到的野卡虚拟信用卡信息，最后按照系统提示完成SuperGrok会员订阅。
 
