@@ -12,6 +12,8 @@
 
 ## 什么是Grok 3？
 
+![什么是Grok 3：最新Twitter X订阅教程，国内用户如何通过订阅X Premium、Premium+或SuperGrok等方式来使用Grok 3？](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/grok-3.png)
+
 Grok 3是马斯克在2025年初推出的全新AI模型，它是X公司（原Twitter）推出的对话式AI助手系列的第三代产品。与OpenAI的ChatGPT和Anthropic的Claude等竞品相比，Grok 3自称"最幽默也最叛逆"的AI，不仅能回答复杂问题，还能带点调侃的语气，这也体现了马斯克本人的风格特点。
 
 Grok 3最核心的亮点在于其独特的功能设计。首先是备受好评的Think思考模式，它能够进行深度推理和逻辑分析，解决需要多步骤思考的复杂问题，比如数学证明、编程难题等。其次是强大的DeepSearch深度搜索功能，不同于普通的网络搜索，它能够对搜索结果进行整合分析，提取关键信息并进行事实核查，帮助用户获取更可靠的答案。此外，Grok 3还提供了语音交互模式，支持多种语言的自然对话，让交流更加便捷。
