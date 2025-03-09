@@ -1,5 +1,7 @@
 # 最新Twitter X订阅教程：2025年国内用户如何通过订阅X Premium、Premium+或SuperGrok等方式来使用Grok 3？
 
+<p align="center">最近更新于：2025年3月9日</p>
+
 马斯克近期推出的Grok 3模型引发了全球AI爱好者的热烈讨论，它被称为"全球最聪明的AI"之一。与其他大型语言模型相比，Grok 3最大的亮点在于其强大的Think思维模式和DeepSearch深度搜索功能，让它能够进行更深入的推理和更全面的信息检索，堪称当前AI工具中的佼佼者。
 
 那么问题来了，我们国内用户如何才能体验到Grok 3的强大功能呢？目前访问Grok 3主要有四种途径：X免费账号、X Premium会员、X Premium+会员以及SuperGrok会员。其中X免费账号使用次数有限，仅适合轻度用户初步体验Grok 3的基本功能；而订阅X Premium、X Premium+或SuperGrok会员后，你将获得更多的使用次数，非常适合需要深度使用AI助手的用户。
