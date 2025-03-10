@@ -55,15 +55,27 @@ Grok 3最核心的亮点在于其独特的功能设计。首先是备受好评�
 
 ### 第一步：打开WildCard野卡官网，并点击“立即体验”。
 
+![Twitter X订阅前必备工作 - 获取WildCard野卡虚拟信用卡第一步：打开WildCard野卡官网，并点击“立即体验”](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/yeka-1.png)
+
 ### 第二步：选择左侧的“立即开通”。
+
+![Twitter X订阅前必备工作 - 获取WildCard野卡虚拟信用卡第二步：选择左侧的“立即开通”](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/yeka-2.png)
 
 ### 第三步：继续点击“开通会员”。
 
+![Twitter X订阅前必备工作 - 获取WildCard野卡虚拟信用卡第三步：继续点击“开通会员”](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/yeka-3.png)
+
 ### 第四步：使用手机号完成帐号注册。
+
+![Twitter X订阅前必备工作 - 获取WildCard野卡虚拟信用卡第四步：使用手机号完成帐号注册](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/yeka-4.png)
 
 ### 第五步：选择服务年限，输入邀请码“ANYOFAI”并支付开卡费。
 
+![Twitter X订阅前必备工作 - 获取WildCard野卡虚拟信用卡第五步：选择服务年限，输入邀请码“ANYOFAI”并支付开卡费](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/yeka-5.png)
+
 ### 第六步：点击“订阅服务”即可查看野卡虚拟信用卡信息。
+
+![Twitter X订阅前必备工作 - 获取WildCard野卡虚拟信用卡第六步：点击“订阅服务”即可查看野卡虚拟信用卡信息](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/yeka-6.png)
 
 OK，截止到目前为止，你已经成功地获取到了一张野卡虚拟信用卡！这张卡不仅能帮你轻松订阅X Premium、Premium+或SuperGrok会员，还可以充值ChatGPT Plus、订阅Claude Pro、订阅Poe、订阅OnlyFans等服务。你也可以点击查看更多关于WildCard野卡虚拟信用卡的相关信息：野卡靠谱吗？
 
