@@ -1,6 +1,6 @@
 # 最新Twitter X订阅教程：2025年国内用户如何通过订阅X Premium、Premium+或SuperGrok等方式来使用Grok 3？
 
-<p align="center">最近更新于：2025年3月25日</p>
+<p align="center">最近更新于：2025年5月25日</p>
 
 马斯克近期推出的Grok 3模型引发了全球AI爱好者的热烈讨论，它被称为"全球最聪明的AI"之一。与其他大型语言模型相比，Grok 3最大的亮点在于其强大的Think思维模式和DeepSearch深度搜索功能，让它能够进行更深入的推理和更全面的信息检索，堪称当前AI工具中的佼佼者。
 
