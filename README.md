@@ -12,7 +12,7 @@
 
 * 通过“银河录像局”或者“星际放映厅”这两个专业的平台去合租SuperGrok或者购买SuperGrok原生独立帐号！
 
-注意：关于“银河录像局”和“星际放映厅”的信息，我们在“<a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>”和“<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>”这两篇中有详细介绍！
+注意：关于“<a href="https://nf.video/BTgSc">银河录像局</a>”和“<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a>”的信息，我们在“<a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>”和“<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>”这两篇中有详细介绍！
 
 </blockquote>
 
