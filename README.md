@@ -1,6 +1,6 @@
 # 最新Twitter X订阅教程：2025年国内用户如何通过订阅X Premium、Premium+或SuperGrok等方式来使用Grok 4？
 
-<p align="center">最近更新于：2025年7月20日</p>
+<p align="center">最近更新于：2025年8月4日</p>
 
 <blockquote>
 
