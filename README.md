@@ -6,7 +6,7 @@
 
 <blockquote>
 
-**注意**：WildCard野卡曾经是订阅SuperGrok会员的最佳方式，但在2025年7月12日WildCard野卡被迫停止运营后，目前国内已经没有可用于支付SuperGrok订阅费的虚拟信用卡了。因此，如果你想继续使用SuperGrok会员服务，只能选择"SuperGrok合租"、"购买SuperGrok账号（原生独立账号）"、"SuperGrok代充值"这三种方式。
+**注意**：WildCard野卡曾经是订阅SuperGrok会员的最佳方式，但在2025年7月12日WildCard野卡被迫停止运营后，目前国内已经没有可用于支付SuperGrok订阅费的虚拟信用卡了。因此，如果你想继续使用SuperGrok会员服务，只能选择"SuperGrok合租"、"购买SuperGrok账号(原生独立账号)"、"SuperGrok代充值"这三种方式。
 
 </blockquote>
 
