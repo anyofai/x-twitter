@@ -36,7 +36,7 @@
 
 ![通过星际放映厅为SuperGrok代充值](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/SuperGrok%E4%BB%A3%E5%85%85-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-3.png)
 
-四、除了提供SuperGrok账号之外，星际放映厅还提供**ChatGPT Plus合租**、**ChatGPT Plus原生独立账号**、**ChatGPT Plus代充值**、**Claude Pro合租**、**Claude Pro原生独立账号**、**Claude Pro代充值**、**Midjourney原生独立账号**、**Midjourney代充值**、**Poe原生独立账号**等服务！
+四、除了提供SuperGrok账号之外，星际放映厅还提供**ChatGPT Plus合租**、**ChatGPT Plus原生独立账号**、**ChatGPT Plus代充值**、**<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>**、**Claude Pro原生独立账号**、**<a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>**、**Midjourney原生独立账号**、**Midjourney代充值**、**Poe原生独立账号**等服务！
 
 ![通过星际放映厅合租其他AI工具](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/SuperGrok%E8%AE%A2%E9%98%85-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-4.png)
 
