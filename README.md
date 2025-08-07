@@ -70,11 +70,11 @@
 
 ![通过银河录像局为SuperGrok代充值](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/SuperGrok%E4%BB%A3%E5%85%85-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-3.png)
 
-四、其他热门AI工具合租和代充值服务：银河录像局也提供<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>(27元/月)、ChatGPT Plus原生独立帐号、<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>(133元/月)、Claude Pro合租(8元起)、Midjourney合租(27元/月)等服务。
+四、**其他热门AI工具合租和代充值服务**：银河录像局也提供<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>(27元/月)、ChatGPT Plus原生独立帐号、<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>(133元/月)、Claude Pro合租(8元起)、Midjourney合租(27元/月)等服务。
 
 ![通过银河录像局合租其他AI工具](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/SuperGrok%E8%AE%A2%E9%98%85-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-4.png)
 
-五、热门流媒体账号合租服务：你还可以通过银河录像局来合租Netflix、YouTube、Disney、Spotify、HBO Max、Prime Video、TV伴侣等流媒体账号。
+五、**Netflix等流媒体账号合租服务**：你还可以通过银河录像局来<a href="https://github.com/anyofai/netflix-hezu">合租Netflix</a>、YouTube、Disney、Spotify、HBO Max、Prime Video、TV伴侣等流媒体账号。
 
 ![通过银河录像局合租流媒体帐号](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/SuperGrok%E5%B8%90%E5%8F%B7-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-5.png)
 
