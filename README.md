@@ -2,6 +2,8 @@
 
 <p align="center">最近更新于：2025年8月6日</p>
 
+![最新SuperGrok订阅教程：如何合租SuperGrok账号(8元起)？如何购买SuperGrok帐号(原生独立帐号)？如何为SuperGrok代充值？](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/%E6%9C%80%E6%96%B0SuperGrok%E8%AE%A2%E9%98%85%E5%BC%80%E9%80%9A%E6%95%99%E7%A8%8B.png)
+
 2025年7月10日，马斯克旗下的人工智能公司xAI正式发布了备受瞩目的Grok 4，这款被誉为"世界上最强AI模型"的产品终于与大家见面。作为Grok系列的第四次重要迭代，Grok 4不仅在性能上实现了质的飞跃，更在多个权威评测中全面超越了GPT-4o、Claude 4 Sonnet、Gemini 2.5 Pro等主流大模型，正式确立了其在AI领域的领军地位。
 
 <blockquote>
