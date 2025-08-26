@@ -1,6 +1,6 @@
 # 2025年最新SuperGrok订阅教程：如何合租SuperGrok账号(8元起)？如何购买SuperGrok帐号(原生独立帐号)？如何为SuperGrok代充值？
 
-<p align="center">最近更新于：2025年8月7日</p>
+<p align="center">最近更新于：2025年8月26日</p>
 
 ![最新SuperGrok订阅教程：如何合租SuperGrok账号(8元起)？如何购买SuperGrok帐号(原生独立帐号)？如何为SuperGrok代充值？](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/%E6%9C%80%E6%96%B0SuperGrok%E8%AE%A2%E9%98%85%E5%BC%80%E9%80%9A%E6%95%99%E7%A8%8B.png)
 
@@ -142,7 +142,7 @@ SuperGrok的官方订阅价格为每月30美元，按照当前汇率计算大约
 * <a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>：无需科学上网，镜像直连，会话隔离，保障隐私安全，无账号被封风险！每月仅需8元！
 * <a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>：提供国内镜像直连、官方标准会员合租、官方Pro会员合租等三种服务！每月仅需27元！
 * <a href="https://github.com/anyofai/netflix-hezu">Netflix奈飞合租</a>：提供独立子账号、支持设置pin码，可访问Netflix全球影视资源，全程质保！每月仅需20元！
-* <a href="https://github.com/anyofai/youtube-premium">YouTube合租</a>：安全有保障，可享受YouTube Premium会员所有权益！每月仅需12元！
+* <a href="https://github.com/anyofai/youtube-hezu">YouTube合租</a>：安全有保障，可享受YouTube Premium会员所有权益！每月仅需12元！
 * <a href="https://github.com/anyofai/spotify-hezu">Spotify合租</a>：官方渠道采购，品质有保障！可享Spotify Premium所有权益！每月仅需13.5元！
 
 * <a href="https://anyofai.github.io/">WildCard野卡虚拟信用卡</a>：详细解答“WildCard野卡怎么样”和“WildCard野卡安全吗”等常见问题。
