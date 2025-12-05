@@ -1,6 +1,6 @@
 # 2025年最新SuperGrok订阅教程：如何合租SuperGrok账号(8元起)？如何购买SuperGrok账号(原生独立账号)？如何为SuperGrok代充值？
 
-<p align="center">最近更新于：2025年12月4日</p>
+<p align="center">最近更新于：2025年12月5日</p>
 
 ![最新SuperGrok订阅教程：如何合租SuperGrok账号(8元起)？如何购买SuperGrok账号(原生独立账号)？如何为SuperGrok代充值？](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/%E6%9C%80%E6%96%B0SuperGrok%E8%AE%A2%E9%98%85%E5%BC%80%E9%80%9A%E6%95%99%E7%A8%8B.png)
 
@@ -78,9 +78,9 @@
 
 ![通过银河录像局合租流媒体账号](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-SuperGrok-5.png)
 
-六、还可以通过银河录像局**购买美日韩土区苹果Apple ID账号**和**Google账号**。
+六、还可以通过银河录像局获取**美日韩土区苹果Apple ID账号**和**Google账号**。
 
-![还可以通过银河录像局购买美日韩土区苹果Apple ID账号和Google账号。](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/SuperGrok%E5%BC%80%E9%80%9A-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-6.png)
+![还可以通过银河录像局获取美日韩土区苹果Apple ID账号和Google账号。](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/SuperGrok%E5%BC%80%E9%80%9A-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-6.png)
 
 注意：银河录像局提供的所有服务也都是包售后的，有任何问题都可以通过24小时在线客服寻求帮助。
 
