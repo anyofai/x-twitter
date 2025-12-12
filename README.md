@@ -1,4 +1,4 @@
-# 2025年最新SuperGrok订阅教程：如何合租SuperGrok账号(8元起)？如何购买SuperGrok账号(原生独立账号)？如何为SuperGrok代充值？
+# 2025年最新SuperGrok订阅教程：如何合租SuperGrok账号？如何购买SuperGrok账号(原生独立账号)？如何为SuperGrok代充值？
 
 <p align="center">最近更新于：2025年12月12日</p>
 
