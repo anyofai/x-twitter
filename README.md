@@ -68,7 +68,7 @@
 
 三、**Super Grok 4.1账号代充值**：你也可以通过银河录像局为你现有的Grok账号代充值，这样你就可以继续使用你原来的SuperGrok账号了。
 
-![通过银河录像局为SuperGrok代充值](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-SuperGrok%E4%BB%A3%E5%85%85-3.png)
+![通过银河录像局为SuperGrok代充值](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-SuperGrok%E4%BB%A3%E5%85%85-3-1.png)
 
 四、**其他热门AI工具合租和代充值服务**：银河录像局也提供<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>(27元/月)、<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus账号购买</a>（158元/月）、<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>(174元/月)、Claude Pro合租(14元起)、Midjourney合租(27元/月)等服务。
 
