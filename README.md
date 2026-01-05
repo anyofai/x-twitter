@@ -50,37 +50,29 @@
 
 ****
 
-## Super Grok 4.1账号购买/合租/代充值备选平台：<a href="https://nf.video/BTgSc">银河录像局</a>
+## SuperGrok充值/帐号购买/共享合租备选平台：<a href="https://nf.video/BTgSc">银河录像局</a>
 
 银河录像局成立于2019年，是杭州崇宇信息科技有限公司旗下专注于流媒体和AI工具合租的综合性平台。作为一家合法合规的互联网企业，银河录像局持有浙ICP备2022036459号网站备案和ICP经营许可证浙B2-20230847，具备完整的互联网信息服务资质，所有业务操作均符合国家相关法律法规要求。
 
 银河录像局是目前国内最大的合租平台，凭借多年的行业深耕和用户积累，已经建立了良好的市场口碑和品牌信誉。银河录像局拥有专业的技术团队和完善的客服体系，能够为用户提供7×24小时的技术支持和售后服务。不论是在数据安全保护、账号稳定性维护，还是在正规资质认证方面都有保障，让用户在享受优质服务的同时，完全不用担心平台跑路或服务中断等风险问题，用户使用起来也更加放心。
 
-以下是银河录像局提供的几种SuperGrok账号服务，大家可以根据自己的实际需求进行选择！
+一、银河录像局暂时下架了“SuperGrok账号购买”和“SuperGrok共享合租”服务，目前仅提供SuperGrok代充值服务。也就是说，你可以通过银河录像局为现有的Grok账号进行代充值，从而继续使用你原来的SuperGrok账号。
 
-一、**Super Grok 4.1账号合租(国内镜像站)**：如果你选择银河录像局提供的Super Grok 4.1账号合租服务，那么不仅**无需科学上网（国内网络可以直接使用），也无需注册Grok账号，更不会有封号的问题**。
+![通过银河录像局为SuperGrok代充值](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-SuperGrok%E5%90%88%E7%A7%9F-1-1.png)
 
-![通过银河录像局合租SuperGrok账号](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-SuperGrok%E5%90%88%E7%A7%9F-1.png)
+![通过银河录像局为SuperGrok代充值](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-SuperGrok%E5%90%88%E7%A7%9F-2-1.png)
 
-二、**Super Grok 4.1账号购买(原生独立账号)**：银河录像局会直接给你提供一个已经完成订阅充值的SuperGrok账号，你拿过来就可以直接使用Grok 4.1的所有功能和服务，不会有任何限制。
-
-![通过银河录像局购买SuperGrok账号](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-%E8%B4%AD%E4%B9%B0SuperGrok%E8%B4%A6%E5%8F%B7-2.png)
-
-三、**Super Grok 4.1账号代充值**：你也可以通过银河录像局为你现有的Grok账号代充值，这样你就可以继续使用你原来的SuperGrok账号了。
-
-![通过银河录像局为SuperGrok代充值](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-SuperGrok%E4%BB%A3%E5%85%85-3-1.png)
-
-四、**其他热门AI工具合租和代充值服务**：银河录像局也提供<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>(27元/月)、<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus账号购买</a>（158元/月）、<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>(174元/月)、Claude Pro合租(14元起)、Midjourney合租(27元/月)等服务。
+二、**其他热门AI工具合租和代充值服务**：银河录像局也提供<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>(27元/月)、<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus账号购买</a>（158元/月）、<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>(174元/月)、Claude Pro合租(14元起)、Midjourney合租(27元/月)等服务。
 
 ![通过银河录像局合租其他AI工具](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-SuperGrok-4.png)
 
-五、**Netflix等流媒体账号合租服务**：你还可以通过银河录像局来<a href="https://github.com/anyofai/netflix-hezu">合租Netflix</a>、YouTube、Disney、Spotify、HBO Max、Prime Video、TV伴侣等流媒体账号。
+三、**Netflix等流媒体账号合租服务**：你还可以通过银河录像局来<a href="https://github.com/anyofai/netflix-hezu">合租Netflix</a>、YouTube、Disney、Spotify、HBO Max、Prime Video、TV伴侣等流媒体账号。
 
 ![通过银河录像局合租流媒体账号](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-SuperGrok-5.png)
 
-六、还可以通过银河录像局获取**美日韩土区苹果Apple ID账号**和**Google账号**。
+四、还可以通过银河录像局获取**美日韩土区苹果Apple ID账号**和**Google账号**。
 
-![还可以通过银河录像局获取美日韩土区苹果Apple ID账号和Google账号。](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/SuperGrok%E5%BC%80%E9%80%9A-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-6.png)
+![还可以通过银河录像局获取美日韩土区苹果Apple ID账号和Google账号。](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/SuperGrok%E5%BC%80%E9%80%9A-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-6-1.png)
 
 注意：银河录像局提供的所有服务也都是包售后的，有任何问题都可以通过24小时在线客服寻求帮助。
 
