@@ -44,7 +44,7 @@
 
 ![通过星际放映厅合租流媒体账号](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/SuperGrok%E5%B8%90%E5%8F%B7-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-5.png)
 
-注意：星际放映厅提供的所有服务都是包售后的，无论你有什么问题都可以直接通过在线客服寻求帮助。
+重要提示：**星际放映厅的所有服务均享有全程质保，也就是我们常说的“包售后”**。在使用过程中，如遇到任何问题，都可以直接通过在线客服寻求帮助。此外，**星际放映厅提供的所有服务均支持开发票**，这一点对公司采购以及有报销需求的用户来说非常有利。
 
 <p align="center"><a href="https://www.naifeistation.com/i/3wLPME">立即访问星际放映厅官网</a></p>
 
