@@ -34,7 +34,7 @@
 
 注意：当你完成付款后，需要主动联系在线客服，由客服帮你完成SuperGrok代充值。此外，**星际放映厅的SuperGrok代充值服务同样提供全程质保**，使用过程中如有任何问题，均可联系在线客服解决。
 
-![通过星际放映厅为SuperGrok代充值](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/SuperGrok%E4%BB%A3%E5%85%85-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-3.png)
+![通过星际放映厅为SuperGrok代充值](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/SuperGrok%E4%BB%A3%E5%85%85-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-3-1.png)
 
 四、除了提供SuperGrok账号之外，星际放映厅还提供**ChatGPT Plus合租**、**ChatGPT Plus原生独立账号**、**ChatGPT Plus代充值**、**<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>**、**<a href="https://github.com/anyofai/claude-pro">Claude Pro账号购买</a>**、**<a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>**、**Midjourney原生独立账号**、**Midjourney代充值**、**Poe原生独立账号**等服务！
 
