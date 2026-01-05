@@ -28,7 +28,7 @@
 
 注意：当你完成支付后，**星际放映厅会直接提供一个已完成充值订阅的SuperGrok原生独立账号**，你拿过来就可以直接使用，并且能够使用SuperGrok的所有功能和服务，没有任何限制，使用起来非常方便。此外，无论你最终选择哪个套餐，**星际放映厅均提供全程质保**，使用过程中如遇到任何问题，均可联系星际放映厅在线客服解决。
 
-![通过星际放映厅购买SuperGrok账号](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/SuperGrok%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-2.png)
+![通过星际放映厅购买SuperGrok账号](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/SuperGrok%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-2-1.png)
 
 三、如果你已经有Grok账号，那么也可以**为现有的Grok账号代充值**！同样使用优惠码"ANYOFAI"可以享受九折优惠，每月223元。
 
