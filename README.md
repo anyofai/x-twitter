@@ -1,6 +1,6 @@
-# 2025年最新SuperGrok订阅教程：如何合租SuperGrok账号？如何购买SuperGrok账号(原生独立账号)？如何为SuperGrok代充值？
+# 2026年最新SuperGrok订阅教程：如何合租SuperGrok账号？如何购买SuperGrok账号(原生独立账号)？如何为SuperGrok代充值？
 
-<p align="center">最近更新于：2025年12月12日</p>
+<p align="center">最近更新于：2026年1月5日</p>
 
 ![最新SuperGrok订阅教程：如何合租SuperGrok账号(8元起)？如何购买SuperGrok账号(原生独立账号)？如何为SuperGrok代充值？](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/%E6%9C%80%E6%96%B0SuperGrok%E8%AE%A2%E9%98%85%E5%BC%80%E9%80%9A%E6%95%99%E7%A8%8B.png)
 
@@ -147,6 +147,6 @@ SuperGrok的官方订阅价格为每月30美元，按照当前汇率计算大约
 * <a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>：推荐最稳定可靠的ChatGPT Plus代充值平台，价格优惠，信誉有保障。
 * <a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>：提供纯人工充值服务，价格实惠，24小时在线客服，独享Claude Pro原生账号！
 * <a href="https://github.com/anyofai/nf-video">银河录像局</a>：最靠谱的AI工具和流媒体合租平台！使用优惠码ANYOFAI可享九折优惠！
-* <a href="https://github.com/anyofai/video-site">国外视频网站</a>：本文将会为大家推荐十个2025年国外最受欢迎的视频网站！
+* <a href="https://github.com/anyofai/video-site">国外视频网站</a>：本文将会为大家推荐十个2026年国外最受欢迎的视频网站！
 
 免责声明：本项目内容仅供信息参考，请遵守相关法律法规及各平台使用条款，所有操作与后果由用户自行承担。
