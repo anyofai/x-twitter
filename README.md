@@ -60,8 +60,6 @@
 
 ![通过银河录像局为SuperGrok代充值](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-SuperGrok%E5%90%88%E7%A7%9F-1-1.png)
 
-![通过银河录像局为SuperGrok代充值](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-SuperGrok%E5%90%88%E7%A7%9F-2-1.png)
-
 二、**其他热门AI工具合租和代充值服务**：银河录像局也提供<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>(27元/月)、<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus账号购买</a>（158元/月）、<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>(174元/月)、Claude Pro合租(14元起)、Midjourney合租(27元/月)等服务。
 
 ![通过银河录像局合租其他AI工具](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-SuperGrok-4.png)
