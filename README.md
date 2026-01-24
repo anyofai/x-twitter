@@ -1,6 +1,6 @@
 # 2026年最新SuperGrok订阅教程：如何购买SuperGrok独立账号？如何合租SuperGrok账号？如何为SuperGrok代充？
 
-<p align="center">最近更新于：2026年1月19日</p>
+<p align="center">最近更新于：2026年1月24日</p>
 
 ![2026年最新SuperGrok订阅教程：如何购买SuperGrok独立账号？如何合租SuperGrok账号？如何为SuperGrok代充？](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/%E6%9C%80%E6%96%B0SuperGrok%E8%AE%A2%E9%98%85%E5%BC%80%E9%80%9A%E6%95%99%E7%A8%8B.png)
 
